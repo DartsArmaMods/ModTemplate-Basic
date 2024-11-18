@@ -13,7 +13,6 @@ include = [
     "meta.cpp",
     "logo_MOD_PREFIX.png",
     "logo_MOD_PREFIX_ca.paa",
-    "LICENSE.md",
     "README.md",
 ]
 exclude = []

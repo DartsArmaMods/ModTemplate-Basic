@@ -1,19 +1,15 @@
 #include "script_component.hpp"
 
 class CfgPatches {
-    class ADDON {
+    class MOD_PREFIX_addonName {
         author = AUTHOR;
         authors[] = {"You!"};
-        url = ECSTRING(main,url);
-        name = COMPONENT_NAME;
+        name = "MOD_TITLE - Addon Name";
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             "MOD_PREFIX_main"
         };
         units[] = {};
         weapons[] = {};
-        VERSION_CONFIG;
     };
 };
-
-#include "CfgEventHandlers.hpp"

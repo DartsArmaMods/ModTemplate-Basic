@@ -4,13 +4,6 @@
 #define AUTHOR "DartRuffian"
 
 #define REQUIRED_VERSION 2.18
-#define REQUIRED_CBA_VERSION {3,18,1}
-
-#include "script_version.hpp"
-
-#define VERSION     MAJOR.MINOR
-#define VERSION_STR MAJOR.MINOR.PATCH.BUILD
-#define VERSION_AR  MAJOR,MINOR,PATCH,BUILD
 
 #ifndef COMPONENT_BEAUTIFIED
     #define COMPONENT_BEAUTIFIED COMPONENT

@@ -10,7 +10,9 @@
     "files.associations": {
         "*.cpp": "cpp",
         "*.hpp": "cpp",
-        "*.inc": "cpp"
+        "*.inc": "cpp",
+        "*.cfg": "cpp",
+        "*.rvmat": "cpp"
     },
 
     "C_Cpp.errorSquiggles": "disabled"
