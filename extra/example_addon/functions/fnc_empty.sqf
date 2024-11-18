@@ -1,4 +1,3 @@
-#include "..\script_component.hpp"
 /*
  * Author: You!
  * An empty function that does nothing.
