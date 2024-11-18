@@ -1,2 +1,2 @@
-#include "script_mod.hpp"
-#include "script_macros.hpp"
+// HEMTT will error if this file is missing
+// It's a bug

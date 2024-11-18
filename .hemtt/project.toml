@@ -4,7 +4,10 @@ prefix = "MOD_PREFIX"
 mainprefix = "z"
 
 [version]
-path = "addons/main/script_version.hpp"
+major = 1
+minor = 0
+patch = 0
+build = 0
 git_hash = 0
 
 [files]

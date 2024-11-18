@@ -1,11 +1,9 @@
-#include "script_component.hpp"
-
 class CfgPatches {
     class MOD_PREFIX_main {
-        author = AUTHOR;
+        author = "DartRuffian";
         authors[] = {"DartRuffian"};
         name = "MOD_TITLE - Main";
-        requiredVersion = REQUIRED_VERSION;
+        requiredVersion = 2.18;
         requiredAddons[] = {
             "cba_main"
         };
